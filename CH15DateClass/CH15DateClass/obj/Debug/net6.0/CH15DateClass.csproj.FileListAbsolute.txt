@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/bin/Debug/net6.0/CH15DateClass
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/bin/Debug/net6.0/CH15DateClass.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/bin/Debug/net6.0/CH15DateClass.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/bin/Debug/net6.0/CH15DateClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/bin/Debug/net6.0/CH15DateClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/refint/CH15DateClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/CH15DateClass.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15DateClass/CH15DateClass/obj/Debug/net6.0/ref/CH15DateClass.dll

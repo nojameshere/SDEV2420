@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{6EEEF97B-415A-4367-BBF9-9D8A29FFF5FA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateClassUnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="CH15DateClass/Program.cs" Line="12" Column="13" />
+      <File FileName="CH15DateClass/Date.cs" Line="63" Column="17" />
+      <File FileName="DateClassUnitTests/UnitTest1.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH15DateClass" expanded="True">
+            <Node name="CH15DateClass" expanded="True" />
+            <Node name="DateClassUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CH15DateClass" expanded="True" selected="True">
+            <Node name="DateClassUnitTests" expanded="True">
+              <Node name="DateClassUnitTests" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CH15DateClass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

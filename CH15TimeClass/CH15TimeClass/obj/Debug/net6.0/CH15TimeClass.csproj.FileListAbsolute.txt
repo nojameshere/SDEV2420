@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/bin/Debug/net6.0/CH15TimeClass
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/bin/Debug/net6.0/CH15TimeClass.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/bin/Debug/net6.0/CH15TimeClass.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/bin/Debug/net6.0/CH15TimeClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/bin/Debug/net6.0/CH15TimeClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/refint/CH15TimeClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/CH15TimeClass.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15TimeClass/CH15TimeClass/obj/Debug/net6.0/ref/CH15TimeClass.dll

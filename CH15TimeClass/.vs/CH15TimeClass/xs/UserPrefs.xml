@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{00CDFF41-909E-4C8B-8CB5-5485B94D08CD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CH15TimeClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH15TimeClass/Program.cs">
+    <Files>
+      <File FileName="CH15TimeClass/Program.cs" Line="10" Column="111" />
+      <File FileName="CH15TimeClass/TimeClass.cs" Line="24" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH15TimeClass" expanded="True">
+            <Node name="CH15TimeClass" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
