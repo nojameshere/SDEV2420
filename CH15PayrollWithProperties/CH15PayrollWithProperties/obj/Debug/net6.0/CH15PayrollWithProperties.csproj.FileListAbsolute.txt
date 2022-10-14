@@ -3,3 +3,13 @@
 /Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.AssemblyInfoInputs.cache
 /Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.AssemblyInfo.cs
 /Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/bin/Debug/net6.0/CH15PayrollWithProperties
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/bin/Debug/net6.0/CH15PayrollWithProperties.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/bin/Debug/net6.0/CH15PayrollWithProperties.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/bin/Debug/net6.0/CH15PayrollWithProperties.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/bin/Debug/net6.0/CH15PayrollWithProperties.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/refint/CH15PayrollWithProperties.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/ref/CH15PayrollWithProperties.dll

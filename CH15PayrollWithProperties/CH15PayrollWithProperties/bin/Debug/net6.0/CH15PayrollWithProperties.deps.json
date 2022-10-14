@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH15PayrollWithProperties/1.0.0": {
+        "runtime": {
+          "CH15PayrollWithProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH15PayrollWithProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

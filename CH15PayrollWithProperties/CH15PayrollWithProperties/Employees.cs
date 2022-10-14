@@ -63,24 +63,24 @@ namespace CH15PayrollWithProperties
         }
         public override string ToString()
         {
-            return $"Employee {ID}: {First} {Last}, hourly wage {Wage:n2}, hours worked {Hours}";
+            return $"Employee {ID}: {First} {Last}, hourly wage {Wage:C2}, hours worked {Hours}, weekly earnings: {Earnings():C2}";
         }
     }
     public class Salary : Employees
     {
-        public Salary(string first, string last, int idNumber, double wage, int hoursWorked)
+        public Salary(string first, string last, int idNumber, double wage)
             : base(first, last, idNumber, wage)
         {
 
         }
         public override decimal Earnings()
         {
-            decimal earnings = (decimal)wage * 2080;
+            decimal earnings = (decimal)wage * 80;
             return earnings;
         }
         public override string ToString()
         {
-            return $"Employee {ID}: {First} {Last}, Salaried, {Wage:n2} annual";
+            return $"Employee {ID}: {First} {Last}, Salaried, {Wage * 2080:C2} annual, weekly earnings: {Earnings():C2}";
         }
     }
 }
