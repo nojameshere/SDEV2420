@@ -1,0 +1,5 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH15PayrollWithProperties/CH15PayrollWithProperties/obj/Debug/net6.0/CH15PayrollWithProperties.csproj.CoreCompileInputs.cache

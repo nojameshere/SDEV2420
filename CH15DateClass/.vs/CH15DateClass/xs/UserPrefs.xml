@@ -8,7 +8,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="DateClassUnitTests/UnitTest1.cs">
     <Files>
       <File FileName="CH15DateClass/Program.cs" Line="12" Column="13" />
-      <File FileName="CH15DateClass/Date.cs" Line="63" Column="17" />
+      <File FileName="CH15DateClass/Date.cs" Line="61" Column="38" />
       <File FileName="DateClassUnitTests/UnitTest1.cs" Line="29" Column="1" />
     </Files>
     <Pads>
@@ -16,7 +16,9 @@
         <State name="__root__">
           <Node name="CH15DateClass" expanded="True">
             <Node name="CH15DateClass" expanded="True" />
-            <Node name="DateClassUnitTests" expanded="True" />
+            <Node name="DateClassUnitTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -25,13 +27,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="CH15DateClass" expanded="True" selected="True">
-            <Node name="DateClassUnitTests" expanded="True">
-              <Node name="DateClassUnitTests" expanded="True">
-                <Node name="UnitTest1" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="CH15DateClass" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
