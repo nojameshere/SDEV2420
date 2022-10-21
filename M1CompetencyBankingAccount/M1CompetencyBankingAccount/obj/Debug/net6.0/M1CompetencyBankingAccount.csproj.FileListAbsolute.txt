@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/bin/Debug/net6.0/M1CompetencyBankingAccount
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/bin/Debug/net6.0/M1CompetencyBankingAccount.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/bin/Debug/net6.0/M1CompetencyBankingAccount.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/bin/Debug/net6.0/M1CompetencyBankingAccount.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/bin/Debug/net6.0/M1CompetencyBankingAccount.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/refint/M1CompetencyBankingAccount.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/M1CompetencyBankingAccount.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M1CompetencyBankingAccount/M1CompetencyBankingAccount/obj/Debug/net6.0/ref/M1CompetencyBankingAccount.dll

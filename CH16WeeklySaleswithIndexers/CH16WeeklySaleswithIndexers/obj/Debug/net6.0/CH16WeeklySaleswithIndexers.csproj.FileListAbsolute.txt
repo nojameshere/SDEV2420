@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/bin/Debug/net6.0/CH16WeeklySaleswithIndexers
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/bin/Debug/net6.0/CH16WeeklySaleswithIndexers.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/bin/Debug/net6.0/CH16WeeklySaleswithIndexers.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/bin/Debug/net6.0/CH16WeeklySaleswithIndexers.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/bin/Debug/net6.0/CH16WeeklySaleswithIndexers.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/refint/CH16WeeklySaleswithIndexers.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/CH16WeeklySaleswithIndexers.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH16WeeklySaleswithIndexers/CH16WeeklySaleswithIndexers/obj/Debug/net6.0/ref/CH16WeeklySaleswithIndexers.dll

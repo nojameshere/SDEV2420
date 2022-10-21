@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{236867B7-C648-43BA-8EE5-808C03CDB83C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH15PayrollWithProperties/Program.cs">
+    <Files>
+      <File FileName="CH15PayrollWithProperties/Program.cs" Line="35" Column="45" />
+      <File FileName="CH15PayrollWithProperties/Employees.cs" Line="30" Column="36" />
+      <File FileName="CH15PayrollWithProperties/DateClass.cs" Line="26" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH15PayrollWithProperties" expanded="True">
+            <Node name="CH15PayrollWithProperties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CH15PayrollWithProperties PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

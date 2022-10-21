@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E2EB403F-774A-49CE-AECE-CE43D4211CD6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CH16WeeklySaleswithIndexers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH16WeeklySaleswithIndexers/Program.cs">
+    <Files>
+      <File FileName="CH16WeeklySaleswithIndexers/Program.cs" Line="24" Column="100" />
+      <File FileName="CH16WeeklySaleswithIndexers/DailySales.cs" Line="34" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH16WeeklySaleswithIndexers" expanded="True">
+            <Node name="CH16WeeklySaleswithIndexers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B4674E54-FA5E-4960-9E26-D8F0486913FB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.M1CompetencyBankingAccount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="M1CompetencyBankingAccount/Program.cs" Line="33" Column="38" />
+      <File FileName="M1CompetencyBankingAccount/AccountClass.cs" Line="47" Column="1" />
+      <File FileName="UnitTests/UnitTest1.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="M1CompetencyBankingAccount" expanded="True">
+            <Node name="M1CompetencyBankingAccount" expanded="True" />
+            <Node name="UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="M1CompetencyBankingAccount" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
