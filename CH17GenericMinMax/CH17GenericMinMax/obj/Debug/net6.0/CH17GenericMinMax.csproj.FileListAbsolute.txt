@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/bin/Debug/net6.0/CH17GenericMinMax
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/bin/Debug/net6.0/CH17GenericMinMax.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/bin/Debug/net6.0/CH17GenericMinMax.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/bin/Debug/net6.0/CH17GenericMinMax.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/bin/Debug/net6.0/CH17GenericMinMax.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/refint/CH17GenericMinMax.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/CH17GenericMinMax.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH17GenericMinMax/CH17GenericMinMax/obj/Debug/net6.0/ref/CH17GenericMinMax.dll

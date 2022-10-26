@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4D41312F-4635-454F-B520-35374FD17417}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CH17GenericMinMax PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericMinMaxTests/UnitTest1.cs">
+    <Files>
+      <File FileName="CH17GenericMinMax/Program.cs" Line="45" Column="11" />
+      <File FileName="GenericMinMaxTests/UnitTest1.cs" Line="68" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH17GenericMinMax" expanded="True">
+            <Node name="CH17GenericMinMax" expanded="True" />
+            <Node name="GenericMinMaxTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CH17GenericMinMax" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
