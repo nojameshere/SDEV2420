@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/bin/Debug/net6.0/CH18SortedLists
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/bin/Debug/net6.0/CH18SortedLists.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/bin/Debug/net6.0/CH18SortedLists.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/bin/Debug/net6.0/CH18SortedLists.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/bin/Debug/net6.0/CH18SortedLists.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/refint/CH18SortedLists.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/CH18SortedLists.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18SortedLists/CH18SortedLists/obj/Debug/net6.0/ref/CH18SortedLists.dll

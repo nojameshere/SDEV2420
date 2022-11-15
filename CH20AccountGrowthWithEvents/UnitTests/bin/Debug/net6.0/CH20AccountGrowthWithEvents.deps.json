@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH20AccountGrowthWithEvents/1.0.0": {
+        "runtime": {
+          "CH20AccountGrowthWithEvents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH20AccountGrowthWithEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

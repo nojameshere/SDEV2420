@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/bin/Debug/net6.0/CH18QueuesAndStacks
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/bin/Debug/net6.0/CH18QueuesAndStacks.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/bin/Debug/net6.0/CH18QueuesAndStacks.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/bin/Debug/net6.0/CH18QueuesAndStacks.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/bin/Debug/net6.0/CH18QueuesAndStacks.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/refint/CH18QueuesAndStacks.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/CH18QueuesAndStacks.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH18QueuesAndStacks/CH18QueuesAndStacks/obj/Debug/net6.0/ref/CH18QueuesAndStacks.dll

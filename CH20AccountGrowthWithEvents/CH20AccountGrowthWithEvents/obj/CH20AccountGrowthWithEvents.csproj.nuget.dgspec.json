@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents.csproj": {}
+    "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents.csproj": {
+    "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents.csproj",
+        "projectUniqueName": "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents.csproj",
         "projectName": "CH20AccountGrowthWithEvents",
-        "projectPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents.csproj",
-        "packagesPath": "C:\\Users\\Millie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\obj\\",
+        "projectPath": "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents.csproj",
+        "packagesPath": "/Users/jamessales/.nuget/packages/",
+        "outputPath": "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Millie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jamessales/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

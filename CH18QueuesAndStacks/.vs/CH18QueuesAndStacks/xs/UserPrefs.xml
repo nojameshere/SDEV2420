@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{59C6715E-A7D7-44F5-AC91-DE625F7C09FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CH18QueuesAndStacks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH18QueuesAndStacks/Program.cs">
+    <Files>
+      <File FileName="CH18QueuesAndStacks/Program.cs" Line="37" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH18QueuesAndStacks" expanded="True">
+            <Node name="CH18QueuesAndStacks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

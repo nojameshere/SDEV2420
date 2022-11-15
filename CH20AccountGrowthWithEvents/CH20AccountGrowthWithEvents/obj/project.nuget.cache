@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8HBvSmkrTODMNnt++3r2ZFD1V3yBE7NZfCbR+PE5l6Xp9CjEknTezAKwbVm0Z5r5KKaQ7HJfepmosuJuFt0hJQ==",
+  "dgSpecHash": "cKIWX3N1bYVZp+CBThnUw9MLLwPz0loMjCMWsL3dSIuPMxDnZYxRNVJL6ir2zZZF80tB1UzZunuJTXOz9rj6yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents\\CH20AccountGrowthWithEvents.csproj",
+  "projectFilePath": "/Users/jamessales/Documents/GitHub/SDEV2420/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents/CH20AccountGrowthWithEvents.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

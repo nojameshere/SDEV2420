@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.M2CompetencyWarehouseInventory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="M2CompetencyWarehouseInventory/Program.cs">
+    <Files>
+      <File FileName="M2CompetencyWarehouseInventory/Program.cs" Line="67" Column="2" />
+      <File FileName="M2CompetencyWarehouseInventory/Warehouse.cs" Line="32" Column="35" />
+      <File FileName="M2CompetencyWarehouseInventory/Product.cs" Line="55" Column="1" />
+      <File FileName="MyAbsoluteFavoriteThingToDo/UnitTest1.cs" Line="70" Column="6" />
+      <File FileName="M2CompetencyWarehouseInventory/Product.cs" Line="55" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="M2CompetencyWarehouseInventory" expanded="True">
+            <Node name="M2CompetencyWarehouseInventory" expanded="True" />
+            <Node name="MyAbsoluteFavoriteThingToDo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="M2CompetencyWarehouseInventory" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

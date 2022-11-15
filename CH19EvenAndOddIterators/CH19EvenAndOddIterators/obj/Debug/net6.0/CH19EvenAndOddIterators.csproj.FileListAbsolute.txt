@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/bin/Debug/net6.0/CH19EvenAndOddIterators
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/bin/Debug/net6.0/CH19EvenAndOddIterators.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/bin/Debug/net6.0/CH19EvenAndOddIterators.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/bin/Debug/net6.0/CH19EvenAndOddIterators.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/bin/Debug/net6.0/CH19EvenAndOddIterators.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/refint/CH19EvenAndOddIterators.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/CH19EvenAndOddIterators.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH19EvenAndOddIterators/CH19EvenAndOddIterators/obj/Debug/net6.0/ref/CH19EvenAndOddIterators.dll

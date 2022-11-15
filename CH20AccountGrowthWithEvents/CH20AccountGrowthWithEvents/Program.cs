@@ -1,13 +1,13 @@
 ﻿using System.ComponentModel;
 
 namespace AccountGrowth;
-public delegate void AccountDelegate(double accountBalance);
+
 public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Chapter 20 Account Growth with Events by James Sales\n");
 
+        Console.WriteLine("Chapter 20 Account Growth with Events by James Sales\n");
         Console.Write("What is the startin balance? $");
         double balance = double.Parse(Console.ReadLine());
         Console.Write("What is the interest rate? ");
@@ -16,7 +16,8 @@ public class Program
         int cycles = int.Parse(Console.ReadLine());
         Account account = new Account(balance, rate, cycles);
         //Events are here
-        
+        account.AccountHundred += EventMessage;
+        account.AccountDoubled += EventMessage;
         //Events are above
         Console.WriteLine($"Account has balance of {account.CurrentBalance:C2}");
         for (int i = 0; i < account.numCycles; i++)
@@ -29,13 +30,8 @@ public class Program
         Console.WriteLine("\nPress an any key to continue");
         Console.ReadKey();
     }
-    
-    public event AccountDelegate AccountPassHundred()
+    public static void EventMessage(string msg)
     {
-        Console.WriteLine("** Account just passed $100 in balance");
-    }
-    public event AccountDelegate()
-    {
-        Console.WriteLine("** Account just doubled in value from initial balance");
+        Console.WriteLine(msg);
     }
 }

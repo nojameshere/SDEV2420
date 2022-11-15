@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F7538E25-1AEA-46EB-9459-37B2E4CB60EF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CH19EvenAndOddIterators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH19EvenAndOddIterators/Stack.cs">
+    <Files>
+      <File FileName="CH19EvenAndOddIterators/Program.cs" Line="39" Column="30" />
+      <File FileName="CH19EvenAndOddIterators/Stack.cs" Line="59" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH19EvenAndOddIterators" expanded="True">
+            <Node name="CH19EvenAndOddIterators" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

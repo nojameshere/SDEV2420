@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH18QueuesAndStacks/1.0.0": {
+        "runtime": {
+          "CH18QueuesAndStacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH18QueuesAndStacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

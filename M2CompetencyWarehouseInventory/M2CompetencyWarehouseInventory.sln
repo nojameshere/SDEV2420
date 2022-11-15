@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2CompetencyWarehouseInventory", "M2CompetencyWarehouseInventory\M2CompetencyWarehouseInventory.csproj", "{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAbsoluteFavoriteThingToDo", "MyAbsoluteFavoriteThingToDo\MyAbsoluteFavoriteThingToDo.csproj", "{8D88CA63-4701-4F4A-90C4-35BA80B2B45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07BAA0A-C077-4124-BA0A-9D7263FB03FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D88CA63-4701-4F4A-90C4-35BA80B2B45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D88CA63-4701-4F4A-90C4-35BA80B2B45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D88CA63-4701-4F4A-90C4-35BA80B2B45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D88CA63-4701-4F4A-90C4-35BA80B2B45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {396EC246-EB0A-42A0-AFD6-0B0AE6129FC7}
+	EndGlobalSection
+EndGlobal
