@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/bin/Debug/net6.0/CH21LettersAndLINQ
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/bin/Debug/net6.0/CH21LettersAndLINQ.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/bin/Debug/net6.0/CH21LettersAndLINQ.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/bin/Debug/net6.0/CH21LettersAndLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/bin/Debug/net6.0/CH21LettersAndLINQ.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/refint/CH21LettersAndLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/CH21LettersAndLINQ.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21LettersAndLINQ/CH21LettersAndLINQ/obj/Debug/net6.0/ref/CH21LettersAndLINQ.dll

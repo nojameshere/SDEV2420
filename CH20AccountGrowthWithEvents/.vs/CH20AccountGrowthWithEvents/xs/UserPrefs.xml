@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{36603212-B639-4681-AB76-2F59A7F729F0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CH20AccountGrowthWithEvents/Account.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH20AccountGrowthWithEvents/Program.cs">
     <Files>
-      <File FileName="CH20AccountGrowthWithEvents/Program.cs" Line="20" Column="48" />
+      <File FileName="CH20AccountGrowthWithEvents/Program.cs" Line="14" Column="1" />
       <File FileName="CH20AccountGrowthWithEvents/Account.cs" Line="48" Column="38" />
     </Files>
     <Pads>
@@ -18,13 +18,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="CH20AccountGrowthWithEvents" expanded="True">
-            <Node name="UnitTests" expanded="True">
-              <Node name="AccountGrowth" expanded="True">
-                <Node name="UnitTest1" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="CH20AccountGrowthWithEvents" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1F433C92-D42C-42EF-9ED2-A22ED8AA5C92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH21LettersAndLINQ/Program.cs">
+    <Files>
+      <File FileName="CH21LettersAndLINQ/Program.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH21LettersAndLINQ" expanded="True">
+            <Node name="CH21LettersAndLINQ" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CH21LettersAndLINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
