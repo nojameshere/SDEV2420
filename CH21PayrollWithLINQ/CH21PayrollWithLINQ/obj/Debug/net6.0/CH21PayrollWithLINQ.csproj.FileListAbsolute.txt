@@ -1,0 +1,15 @@
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/bin/Debug/net6.0/CH21PayrollWithLINQ
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/bin/Debug/net6.0/CH21PayrollWithLINQ.deps.json
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/bin/Debug/net6.0/CH21PayrollWithLINQ.runtimeconfig.json
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/bin/Debug/net6.0/CH21PayrollWithLINQ.dll
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/bin/Debug/net6.0/CH21PayrollWithLINQ.pdb
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.csproj.AssemblyReference.cache
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.AssemblyInfoInputs.cache
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.AssemblyInfo.cs
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.csproj.CoreCompileInputs.cache
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.dll
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/refint/CH21PayrollWithLINQ.dll
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.pdb
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/CH21PayrollWithLINQ.genruntimeconfig.cache
+/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/Debug/net6.0/ref/CH21PayrollWithLINQ.dll

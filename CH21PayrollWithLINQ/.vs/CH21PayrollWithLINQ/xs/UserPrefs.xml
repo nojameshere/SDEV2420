@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1BF53C64-D0A7-42BE-B1A0-3CE356F73206}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH21PayrollWithLINQ/Program.cs">
+    <Files>
+      <File FileName="CH21PayrollWithLINQ/Program.cs" Line="44" Column="30" />
+      <File FileName="CH21PayrollWithLINQ/Employee.cs" Line="24" Column="34" />
+      <File FileName="CH21PayrollWithLINQ/HoursWorked.cs" Line="16" Column="106" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH21PayrollWithLINQ" expanded="True">
+            <Node name="CH21PayrollWithLINQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CH21PayrollWithLINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
