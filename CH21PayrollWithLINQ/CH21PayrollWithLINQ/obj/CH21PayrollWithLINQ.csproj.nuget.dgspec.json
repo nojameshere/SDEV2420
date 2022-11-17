@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/CH21PayrollWithLINQ.csproj": {}
+    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ.csproj": {}
   },
   "projects": {
-    "/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/CH21PayrollWithLINQ.csproj": {
+    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/CH21PayrollWithLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ.csproj",
         "projectName": "CH21PayrollWithLINQ",
-        "projectPath": "/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/CH21PayrollWithLINQ.csproj",
-        "packagesPath": "/Users/jamessales/.nuget/packages/",
-        "outputPath": "/Users/jamessales/Projects/CH21PayrollWithLINQ/CH21PayrollWithLINQ/obj/",
+        "projectPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ.csproj",
+        "packagesPath": "C:\\Users\\Millie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\CH21PayrollWithLINQ\\CH21PayrollWithLINQ\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/jamessales/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Millie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
