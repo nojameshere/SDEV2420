@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/bin/Debug/net6.0/CH21InvoicesWithLINQ
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/bin/Debug/net6.0/CH21InvoicesWithLINQ.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/bin/Debug/net6.0/CH21InvoicesWithLINQ.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/bin/Debug/net6.0/CH21InvoicesWithLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/bin/Debug/net6.0/CH21InvoicesWithLINQ.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/refint/CH21InvoicesWithLINQ.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/CH21InvoicesWithLINQ.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/CH21InvoicesWithLINQ/CH21InvoicesWithLINQ/obj/Debug/net6.0/ref/CH21InvoicesWithLINQ.dll

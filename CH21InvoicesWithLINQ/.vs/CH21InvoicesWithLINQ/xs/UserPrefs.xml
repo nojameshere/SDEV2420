@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D688D001-3348-4CDB-B393-E1B118EE20D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH21InvoicesWithLINQ/Invoice.cs">
+    <Files>
+      <File FileName="CH21InvoicesWithLINQ/Program.cs" Line="61" Column="104" />
+      <File FileName="CH21InvoicesWithLINQ/Invoice.cs" Line="2" Column="24" />
+      <File FileName="CH21InvoicesWithLINQ/Customer.cs" Line="2" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH21InvoicesWithLINQ" expanded="True">
+            <Node name="CH21InvoicesWithLINQ" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CH21InvoicesWithLINQ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
