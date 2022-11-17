@@ -29,19 +29,49 @@ public class Program
         hoursWorked.Add(new HoursWorked(983, 6, 6, 6, 7, 9));
         hoursWorked.Add(new HoursWorked(402, 1, 1, 1, 16, 1));
 
-        Console.WriteLine("Display employees sorted by hourly rate descending");
-        var orderByRateDescending = from e in employees
-                                    orderby e.Rate
-                                    select e;
+        Console.WriteLine("\nDisplay employees sorted by hourly rate descending");
+        var orderByRateDescending = from e in employees orderby e.Rate descending select e;
         foreach(Employee employee in orderByRateDescending)
         {
             Console.WriteLine($"{employee.ID} {employee.First} {employee.Last}, {employee.Rate:C2}");
         }
         //Next display employees sorted descending by total hours worked.
         Console.WriteLine("\nDisplay employees sorted by total hours worked");
+        var query =
+            from e in employees
+            join hours in hoursWorked on e.ID equals hours.ID
+            orderby hours.TotalHoursWorked descending
+            select new
+            {
+                FullName = e.First + " " + e.Last,
+                HourlyRate = e.Rate,
+                EmpID = e.ID,
+                HoursWorked = hours.TotalHoursWorked
+            };
 
+        foreach(var item in query)
+        {
+            Console.WriteLine($"{item.EmpID} {item.FullName}, rate {item.HourlyRate:C2}, worked {item.HoursWorked} hours");
+        }
         //Next display employees' total hours AND total pay.
         Console.WriteLine("\nDisplay employees total hours and total pay");
+        query = from item in query
+                orderby item.EmpID
+                select item;
+        foreach(var item in query)
+        {
+            Console.WriteLine($"{item.EmpID}, rate {item.HourlyRate:C2}: total hours {item.HoursWorked}, total pay {item.HourlyRate * item.HoursWorked:C2}");
+        }
+        //var conjoinedTriangelsOfSuccess = employees.Join(
+        //                                    hoursWorked,
+        //                                    employees => employees.ID,
+        //                                    hoursWorked => hoursWorked.ID,
+        //                                    (employees, hoursWorked) => new
+        //                                    {
+
+        //                                    }
+        
+        
 
         Console.WriteLine("\nPress any key to unpause the program and close it.  .  .");
         Console.ReadKey();
