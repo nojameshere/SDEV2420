@@ -30,8 +30,9 @@ public class Invoice
     }
     public DateTime InvoiceDate
     {
-        get { return invoiceDate.Date; }
+        get { return invoiceDate; }
         set { invoiceDate = value; }
     }
+    
 }
 

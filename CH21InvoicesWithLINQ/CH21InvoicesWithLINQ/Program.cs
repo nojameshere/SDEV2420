@@ -5,6 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        double grandTotal = 0;
         Console.WriteLine("Chapter 21 Invoices with LINQ by James Sales");
 
         List<Customer> customers = new List<Customer>();
@@ -58,9 +59,35 @@ public class Program
 
         foreach(Invoice invoice in invoices)
         {
-            Console.WriteLine($"Invoice {invoice.InvoiceID}\t{invoice.CustomerID}\t{invoice.InvoiceDate}\t{invoice.InvoiceTotal:C2}");
+            Console.WriteLine($"Invoice {invoice.InvoiceID}\t{invoice.CustomerID}\t{invoice.InvoiceDate.ToShortDateString()}\t{invoice.InvoiceTotal:C2}");
         }
 
+        //LINQ group join - list invoices by customer
+        Console.WriteLine("\nList invoices grouped by customer");
+        var byCustomer = from customer in customers
+                         join invoice in invoices on customer.CustomerID equals invoice.CustomerID into groupJoin
+                         select new
+                         {
+                             CustomerID = customer.CustomerID,
+                             GroupedInvoices = groupJoin
+                         };
+
+        foreach(var item in byCustomer)
+        {
+            double totalForCustomer = 0;
+            //This prints the customer ID
+            Console.WriteLine($"\nCustomer {item.CustomerID}");
+
+            //This prints the invoices which match the customer's ID
+            foreach(var invoice in item.GroupedInvoices)
+            {
+                Console.WriteLine($"    {invoice.InvoiceID}, {invoice.InvoiceDate.ToShortDateString()}, \t{invoice.InvoiceTotal:C2}");
+                totalForCustomer += invoice.InvoiceTotal;
+            }
+            Console.WriteLine($"Total for customer: {totalForCustomer:C2}");
+            grandTotal += totalForCustomer;
+        }
+        Console.WriteLine($"\nTotal for all invoices: {grandTotal:C2}");
 
         //Program pause statement
         Console.WriteLine("\n\n\nPress key to continue.");
