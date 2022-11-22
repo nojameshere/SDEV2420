@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/bin/Debug/net6.0/M3Competency
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/bin/Debug/net6.0/M3Competency.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/bin/Debug/net6.0/M3Competency.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/bin/Debug/net6.0/M3Competency.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/bin/Debug/net6.0/M3Competency.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/refint/M3Competency.dll
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.pdb
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/M3Competency.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2420/M3Competency/M3Competency/obj/Debug/net6.0/ref/M3Competency.dll
