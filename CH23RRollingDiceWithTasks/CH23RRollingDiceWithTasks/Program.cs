@@ -10,12 +10,12 @@ public class DiceRolls
 
         Console.Write("\nHow many rolls? ");
         int numberOfRolls = int.Parse(Console.ReadLine());
-        DoWork(numberOfRolls);
-        DoWork(1000000);
-        DoWork(10000000);
-        //Task runDoWork = Task.Run(() => DoWork(numberOfRolls));
-        //Task runDoWork2 = Task.Run(() => DoWork(1000000));
-        //Task runDoWork3 = Task.Run(() => DoWork(10000000));
+        //DoWork(numberOfRolls);
+        //DoWork(1000000);
+        //DoWork(10000000);
+        Task runDoWork = Task.Run(() => DoWork(numberOfRolls));
+        Task runDoWork2 = Task.Run(() => DoWork(1000000));
+        Task runDoWork3 = Task.Run(() => DoWork(10000000));
 
         Console.WriteLine("\nInside DoWork, does it wait for the tasks to complete?");
         Console.WriteLine("Does this wait to print after the DoWork method is called?");

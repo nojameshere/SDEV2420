@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CCDD6065-8B8A-48AA-8429-524058C9E5FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.CH23RRollingDiceWithTasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH23RRollingDiceWithTasks/Program.cs">
+    <Files>
+      <File FileName="CH23RRollingDiceWithTasks/Program.cs" Line="18" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH23RRollingDiceWithTasks" expanded="True">
+            <Node name="CH23RRollingDiceWithTasks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
