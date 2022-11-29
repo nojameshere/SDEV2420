@@ -8,6 +8,10 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Chapter 23 Factorial with Parallel Execution by James Sales");
+        //Console.WriteLine("\nInvoke 3 sequential methods");
+        //CalcFirst();
+        //CalcSecond();
+        //CalcThird();
         Console.WriteLine("\nInvode 3 parallel methods");
 
         Parallel.Invoke(() =>
@@ -26,8 +30,8 @@ public class Program
         for (int k = number; k > 1; k--)
         {
             result *= k;
-            Console.WriteLine($"\nInside Factorial method, Factorial of {number} is {result:N}");
         }
+        Console.WriteLine($"\nInside Factorial method, Factorial of {number} is {result:N}");
     }
     public static void CalcFirst()
     {
