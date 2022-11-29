@@ -8,12 +8,14 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Chapter 23 Factorial with Parallel Execution by James Sales");
-        Console.WriteLine("\nInvode 3 sequential methods");
-        CalcFirst();
-        CalcSecond();
-        CalcThird();
-        Console.WriteLine("\nInside of main after the calls to calculate");
+        Console.WriteLine("\nInvode 3 parallel methods");
 
+        Parallel.Invoke(() =>
+        {
+            CalcFirst();
+            CalcSecond();
+            CalcThird();
+        });
 
         Console.WriteLine("\nPress a key to continue");
         Console.ReadKey();
