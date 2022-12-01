@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH24RollingDiceAsyncAwait/1.0.0": {
+        "runtime": {
+          "CH24RollingDiceAsyncAwait.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH24RollingDiceAsyncAwait/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

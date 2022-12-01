@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9DF92AFA-A6B1-4AC2-B649-CD8C7EA33EF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="M3Competency/Program.cs">
+    <Files>
+      <File FileName="M3Competency/Program.cs" Line="120" Column="45" />
+      <File FileName="M3Competency/Employee.cs" Line="16" Column="59" />
+      <File FileName="M3Competency/HoursWorked.cs" Line="15" Column="32" />
+      <File FileName="M3Competency/Department.cs" Line="6" Column="15" />
+      <File FileName="M3Competency/Date.cs" Line="110" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="M3Competency" expanded="True">
+            <Node name="M3Competency" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.M3Competency PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
