@@ -7,24 +7,26 @@ public class DiceRolls
     public static void Main(string[] args)
     {
         Console.WriteLine("Chapter 23 Rolling Dice with Tasks by James Sales");
+        
+        doWork();
 
-        Console.Write("\nHow many rolls? ");
-        int numberOfRolls = int.Parse(Console.ReadLine());
-        //DoWork(numberOfRolls);
-        //DoWork(1000000);
-        //DoWork(10000000);
-        Task runDoWork = Task.Run(() => DoWork(numberOfRolls));
-        Task runDoWork2 = Task.Run(() => DoWork(1000000));
-        Task runDoWork3 = Task.Run(() => DoWork(10000000));
+        
 
         Console.WriteLine("\nInside DoWork, does it wait for the tasks to complete?");
         Console.WriteLine("Does this wait to print after the DoWork method is called?");
         Console.WriteLine("\nAppuyez sur n'importe quelle touche pour continuer");
         Console.ReadKey();
     }
-    public static void DoWork(int rolls)
+    private static void doWork()
     {
-        Console.WriteLine();
+        Console.Write("\nHow many rolls? ");
+        var rolls = int.Parse(Console.ReadLine());
+        Task task = Task.Run(() => rollDice(rolls));
+        Task task2 = Task.Run(() => rollDice(rolls * 10));
+        Task task3 = Task.Run(() => rollDice(rolls * 100));
+    }
+    public static void rollDice(int rolls)
+    {
         Random rng = new Random();
         int[] rollCounts = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
         for (int i = 0; i < rolls; i++)
@@ -40,6 +42,6 @@ public class DiceRolls
             iterator++;
         }
         while (iterator < 12);
-        Console.WriteLine($"Total number of rolls: {rolls:N0}");
+        Console.WriteLine($"Total number of rolls: {rolls:N0}\n");
     }
 }
