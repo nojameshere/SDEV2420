@@ -1,0 +1,15 @@
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\bin\Debug\net6.0\CH22DateWithOverloadedOperators.exe
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\bin\Debug\net6.0\CH22DateWithOverloadedOperators.deps.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\bin\Debug\net6.0\CH22DateWithOverloadedOperators.runtimeconfig.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\bin\Debug\net6.0\CH22DateWithOverloadedOperators.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\bin\Debug\net6.0\CH22DateWithOverloadedOperators.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.csproj.AssemblyReference.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.AssemblyInfoInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.AssemblyInfo.cs
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.csproj.CoreCompileInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\refint\CH22DateWithOverloadedOperators.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\CH22DateWithOverloadedOperators.genruntimeconfig.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH22DateWithOverloadedOperators\CH22DateWithOverloadedOperators\obj\Debug\net6.0\ref\CH22DateWithOverloadedOperators.dll
