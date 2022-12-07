@@ -1,0 +1,16 @@
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.exe
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.deps.json
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.runtimeconfig.json
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.runtimeconfig.dev.json
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.dll
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\bin\Debug\netcoreapp3.1\M4Competency.pdb
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.csproj.AssemblyReference.cache
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.Form1.resources
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.csproj.GenerateResource.cache
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.AssemblyInfoInputs.cache
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.AssemblyInfo.cs
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.csproj.CoreCompileInputs.cache
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.dll
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.pdb
+C:\Users\4800625173\Documents\GitHub\SDEV2420\M4Competency\M4Competency\obj\Debug\netcoreapp3.1\M4Competency.genruntimeconfig.cache
