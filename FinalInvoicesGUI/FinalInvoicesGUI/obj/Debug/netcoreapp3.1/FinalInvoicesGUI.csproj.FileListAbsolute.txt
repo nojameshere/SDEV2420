@@ -1,0 +1,16 @@
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.exe
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.deps.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.runtimeconfig.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.runtimeconfig.dev.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\bin\Debug\netcoreapp3.1\FinalInvoicesGUI.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.csproj.AssemblyReference.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.Form1.resources
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.csproj.GenerateResource.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.AssemblyInfoInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.AssemblyInfo.cs
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.csproj.CoreCompileInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\FinalInvoicesGUI\FinalInvoicesGUI\obj\Debug\netcoreapp3.1\FinalInvoicesGUI.genruntimeconfig.cache

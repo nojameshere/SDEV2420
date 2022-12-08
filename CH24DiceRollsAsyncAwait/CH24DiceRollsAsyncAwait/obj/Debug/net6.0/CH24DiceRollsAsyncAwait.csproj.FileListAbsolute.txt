@@ -1,0 +1,15 @@
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\bin\Debug\net6.0\CH24DiceRollsAsyncAwait.exe
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\bin\Debug\net6.0\CH24DiceRollsAsyncAwait.deps.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\bin\Debug\net6.0\CH24DiceRollsAsyncAwait.runtimeconfig.json
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\bin\Debug\net6.0\CH24DiceRollsAsyncAwait.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\bin\Debug\net6.0\CH24DiceRollsAsyncAwait.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.AssemblyInfo.cs
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\refint\CH24DiceRollsAsyncAwait.dll
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\CH24DiceRollsAsyncAwait.genruntimeconfig.cache
+C:\Users\Millie\Documents\GitHub\SDEV2420\CH24DiceRollsAsyncAwait\CH24DiceRollsAsyncAwait\obj\Debug\net6.0\ref\CH24DiceRollsAsyncAwait.dll

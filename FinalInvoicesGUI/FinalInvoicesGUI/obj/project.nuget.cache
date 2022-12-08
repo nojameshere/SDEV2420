@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VTcNerggJVAsvPCUjNmR6wQ/tjmfYu+GciY+3QNeJ6mIci5zaPdGGeHRdfPOlvYT+nngRvS0/tw5CsnArHJbwg==",
+  "dgSpecHash": "H+kPKTDcGG+sRnCDbXmr6yNiPHwz10jSB3tsN4znNWE9Z5RQgmV42rZcHOCfuAPuXJgC4z8wKJU57PdxQxmANw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4800625173\\source\\repos\\FinalInvoicesGUI\\FinalInvoicesGUI\\FinalInvoicesGUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2420\\FinalInvoicesGUI\\FinalInvoicesGUI\\FinalInvoicesGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Millie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Millie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Millie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Millie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
