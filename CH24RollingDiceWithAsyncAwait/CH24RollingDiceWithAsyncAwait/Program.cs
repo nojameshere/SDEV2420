@@ -24,9 +24,7 @@ public class DiceRolls
         Task task = Task.Run(() => rollDice(rolls));
         Task task2 = Task.Run(() => rollDice(rolls * 10));
         Task task3 = Task.Run(() => rollDice(rolls * 100));
-        await task;
-        await task2;
-        await task3;
+        await Task.WhenAll(task, task2, task3);
     }
     public static void rollDice(int rolls)
     {

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7EBDC979-B7D7-4F0C-8F4D-427FA724FA8F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CH24RollingDiceWithAsyncAwait PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH24RollingDiceWithAsyncAwait/Program.cs">
+    <Files>
+      <File FileName="CH24RollingDiceWithAsyncAwait/Program.cs" Line="37" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH24RollingDiceWithAsyncAwait" expanded="True">
+            <Node name="CH24RollingDiceWithAsyncAwait" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

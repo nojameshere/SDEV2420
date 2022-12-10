@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pvK4yN+IUA0ONcYfkHx7pbTXoa2DU72UXxxODm/uwoy8CFXmLhzRPAFUbqdbjIdLbqvY8zfqDQQoD/tI3DxZHg==",
+  "dgSpecHash": "ux6NKiXSY7w3MlO3SdAieaWZ5d68BD5/X7r3GmEF3uS2w4y89MDx7lXZ5eYr4v3F+qqvE80RSHKBlYrCuTXCdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsales\\Documents\\GitHub\\SDEV2420\\CH24RollingDiceWithAsyncAwait\\CH24RollingDiceWithAsyncAwait\\CH24RollingDiceWithAsyncAwait.csproj",
+  "projectFilePath": "/Users/jamessales/Documents/GitHub/SDEV2420/CH24RollingDiceWithAsyncAwait/CH24RollingDiceWithAsyncAwait/CH24RollingDiceWithAsyncAwait.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
