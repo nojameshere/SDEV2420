@@ -1,0 +1,15 @@
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.csproj.AssemblyReference.cache
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.AssemblyInfoInputs.cache
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.AssemblyInfo.cs
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.csproj.CoreCompileInputs.cache
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/bin/Debug/net6.0/Debug2420Final
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/bin/Debug/net6.0/Debug2420Final.deps.json
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/bin/Debug/net6.0/Debug2420Final.runtimeconfig.json
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/bin/Debug/net6.0/Debug2420Final.dll
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/bin/Debug/net6.0/Debug2420Final.pdb
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.dll
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/refint/Debug2420Final.dll
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.pdb
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/Debug2420Final.genruntimeconfig.cache
+/Users/jamessales/Projects/Debug2420Final/Debug2420Final/obj/Debug/net6.0/ref/Debug2420Final.dll

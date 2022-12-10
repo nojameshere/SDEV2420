@@ -138,47 +138,165 @@ namespace FinalInvoicesGUI
                 leftBox.Text += $"{item.ItemCost:C2}\t{item.ItemID}\t{item.ItemName}\n";
             }
         }
-
-        private void invoicesRadial_CheckedChanged(object sender, EventArgs e)
+        public static long Fibonacci(long n)
         {
-            //Display invoices by invoiceID, list the line items and the customer associated with them
-            rightBox.Clear();
-            rightBox.Text += "Invoices\n\n";
-            var combineLineItemsANDInventory = from li in lineItems
-                                               join items in inventory on li.ItemID equals items.ItemID
-                                               orderby li.LineNumber
-                                               select new
-                                               {
-                                                   LineNumber = li.LineNumber,
-                                                   ItemName = items.ItemName,
-                                                   ItemCost = items.ItemCost,
-                                                   QuantitySold = li.Quantity,
-                                                   Cost = li.Quantity * items.ItemCost,
-                                                   InvoiceID = li.InvoiceID
-                                               };
-            var combineCustomerANDInvoice = from invoice in invoices
-                                            join customer in customers on invoice.CustomerID equals customer.CustomerID
-                                            orderby invoice.InvoiceID
-                                            select new
-                                            {
-                                                InvoiceID = invoice.InvoiceID,
-                                                CustomerID = customer.CustomerID,
-                                                CustomerName = customer.Name,
-                                                InvoiceDate = invoice.InvoiceDate
-                                            };
-            var groupJoinTheFirst = from invoice in combineCustomerANDInvoice
-                                    join item in combineLineItemsANDInventory on invoice.InvoiceID equals item.InvoiceID
-                                    select invoice;
-            foreach (var thing in groupJoinTheFirst)
+            if (n == 0 || n == 1)
             {
-                var total = 0;
-                rightBox.Text += $"Invoice {thing.InvoiceID}\nCustomer {thing.CustomerID} {thing.CustomerName}\t\t{thing.InvoiceDate}";
-                foreach (var li in combineLineItemsANDInventory)
+                return n;
+            }
+            else
+            {
+                return Fibonacci(n - 1) + Fibonacci(n - 2);
+            }
+        }
+        async private void invoicesRadial_CheckedChanged(object sender, EventArgs e)
+        {
+            rightBox.Clear();
+            Task<long> fibonacciTask = Task.Factory.StartNew(() => Fibonacci(40));
+            await fibonacciTask;
+            var lines = from lineItem in lineItems
+                        join item in inventory on lineItem.ItemID equals item.ItemID
+                        select new
+                        {
+                            InvoiceNumber = lineItem.InvoiceID,
+                            Line = lineItem.LineNumber,
+                            ItemName = item.ItemName,
+                            ItemCost = item.ItemCost,
+                            Quantity = lineItem.Quantity,
+                            Cost = lineItem.Quantity * item.ItemCost
+                        };
+            var combinedInvoices = from invoice in invoices
+                                   join customer in customers on invoice.CustomerID equals customer.CustomerID
+                                   select new
+                                   {
+                                       Number = invoice.InvoiceID,
+                                       Name = customer.Name,
+                                       InvoiceDate = invoice.InvoiceDate,
+                                       CustomerNumber = customer.CustomerID
+                                   };
+            var invoicesGroupJoin = from invoice in combinedInvoices
+                                    join item in lines on invoice.Number equals item.InvoiceNumber into gj
+                                    select new
+                                    {
+                                        InvoiceNumber = invoice.Number,
+                                        CustomerName = invoice.Name,
+                                        InvoiceDate = invoice.InvoiceDate,
+                                        CustomerNumber = invoice.CustomerNumber,
+                                        InvoiceLineItems = gj
+                                    };
+            rightBox.Clear();
+            rightBox.Text += "Invoices";
+            foreach (var invoice in invoicesGroupJoin)
+            {
+                double total = 0;
+            
+                rightBox.Text += $"\n\nInvoice {invoice.InvoiceNumber}";
+                rightBox.Text += $"\nCustomer {invoice.CustomerNumber} {invoice.CustomerName}\t{invoice.InvoiceDate}";
+                foreach (var lineItem in invoice.InvoiceLineItems)
                 {
-                    rightBox.Text += $"{li.LineNumber} {li.ItemName}\t @{li.ItemCost}\tqty sold {li.QuantitySold}\tcost {li.Cost:C2}";
-                    //-total += li.Cost;
+                   
+                    rightBox.Text += $"\n{lineItem.Line} {lineItem.ItemName}\t@{lineItem.ItemCost:C2}\tqty sold {lineItem.Quantity}\tcost{lineItem.Cost:C2}";
+                    total += lineItem.Cost;
                 }
+               
+                rightBox.Text += $"\nTotal for invoice: {total:C2}";
+            }
+        }
 
+        async private void invByCustomerRadial_CheckedChanged(object sender, EventArgs e)
+        {
+            rightBox.Clear();
+            Task<long> fibonacciTask = Task.Factory.StartNew(() => Fibonacci(40));
+            await fibonacciTask;
+            var lineAndInventory = from line in lineItems
+                                   join item in inventory on line.ItemID equals item.ItemID
+                                   select new
+                                   {
+                                       Cost = item.ItemCost * line.Quantity,
+                                       InvoiceID = line.InvoiceID,
+
+                                   };
+            var groupJoinInvoices = from invoice in invoices
+                                    join item in lineAndInventory on invoice.InvoiceID equals item.InvoiceID into gj
+                                    select new
+                                    {
+                                        InvoiceID = invoice.InvoiceID,
+                                        CustomerID = invoice.CustomerID,
+                                        Item = gj
+                                    };
+            var customerInvoiceGroupJoin = from customer in customers
+                                           join invoice in groupJoinInvoices on customer.CustomerID equals invoice.CustomerID into gj
+                                           orderby customer.CustomerID
+                                           select new
+                                           {
+                                               CustomerID = customer.CustomerID,
+                                               InvoiceData = gj
+                                           };
+
+            rightBox.Clear();
+            rightBox.Text += "Invoices Sorted by Customer";
+            double grandTotal = 0;
+            foreach (var customer in customerInvoiceGroupJoin)
+            {
+                rightBox.Text += $"\n\nCustomer {customer.CustomerID}";
+                foreach (var invoice in customer.InvoiceData)
+                {
+                    rightBox.Text += $"\n   Invoice {invoice.InvoiceID}";
+                    double invoiceTotal = 0;
+                    foreach (var item in groupJoinInvoices)
+                    {
+                        
+                        foreach (var thing in item.Item)
+                        {
+                            if (thing.InvoiceID == invoice.InvoiceID)
+                            {
+                                invoiceTotal += thing.Cost;
+                                grandTotal += thing.Cost;
+                            }
+                            
+                        }
+                        
+                    }
+                    rightBox.Text += $" Total {invoiceTotal:C2}";
+                }
+            }
+            rightBox.Text += $"\n\nTotal \t\t{grandTotal:C2}";
+        }
+
+        async private void inventorySoldRadial_CheckedChanged(object sender, EventArgs e)
+        {
+            rightBox.Clear();
+            Task<long> fibonacciTask = Task.Factory.StartNew(() => Fibonacci(40));
+            await fibonacciTask;
+            var inventoryItem = from item in lineItems
+                                join thing in inventory on item.ItemID equals thing.ItemID
+                                join invoice in invoices on item.InvoiceID equals invoice.InvoiceID
+                                select new
+                                {
+                                    InvoiceID = invoice.InvoiceID,
+                                    Quantity = item.Quantity,
+                                    Cost = item.Quantity * thing.ItemCost,
+                                    ItemID = item.ItemID
+                                };
+            var itemGroupJoin = from item in lineItems
+                                join thing in inventoryItem on item.ItemID equals thing.ItemID into gj
+                                select new
+                                {
+                                    ItemNumber = item.ItemID,
+                                    Invoices = gj
+                                };
+            rightBox.Clear();
+            rightBox.Text += "Inventory Changes";
+            foreach (var item in itemGroupJoin)
+            {
+                double total = 0;
+                rightBox.Text += $"\n\nInventory Item: {item.ItemNumber}";
+                foreach (var invoice in item.Invoices)
+                {
+                    rightBox.Text += $"\n   Invoice {invoice.InvoiceID}\tsold {invoice.Quantity}\t cost {invoice.Cost:C2}";
+                    total += invoice.Cost;
+                }
+                rightBox.Text += $"\n   Total sold: {total:C2}";
             }
         }
     }

@@ -38,6 +38,10 @@ namespace FinalInvoicesGUI
             this.inventorySoldRadial = new System.Windows.Forms.RadioButton();
             this.invByCustomerRadial = new System.Windows.Forms.RadioButton();
             this.rightBox = new System.Windows.Forms.RichTextBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // leftBox
@@ -52,7 +56,7 @@ namespace FinalInvoicesGUI
             // byCostRadial
             // 
             this.byCostRadial.AutoSize = true;
-            this.byCostRadial.Location = new System.Drawing.Point(47, 168);
+            this.byCostRadial.Location = new System.Drawing.Point(12, 112);
             this.byCostRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.byCostRadial.Name = "byCostRadial";
             this.byCostRadial.Size = new System.Drawing.Size(144, 24);
@@ -65,7 +69,7 @@ namespace FinalInvoicesGUI
             // byInvIDRadial
             // 
             this.byInvIDRadial.AutoSize = true;
-            this.byInvIDRadial.Location = new System.Drawing.Point(47, 135);
+            this.byInvIDRadial.Location = new System.Drawing.Point(12, 79);
             this.byInvIDRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.byInvIDRadial.Name = "byInvIDRadial";
             this.byInvIDRadial.Size = new System.Drawing.Size(130, 24);
@@ -78,7 +82,7 @@ namespace FinalInvoicesGUI
             // byCustomerIDRadial
             // 
             this.byCustomerIDRadial.AutoSize = true;
-            this.byCustomerIDRadial.Location = new System.Drawing.Point(47, 101);
+            this.byCustomerIDRadial.Location = new System.Drawing.Point(12, 45);
             this.byCustomerIDRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.byCustomerIDRadial.Name = "byCustomerIDRadial";
             this.byCustomerIDRadial.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -92,7 +96,7 @@ namespace FinalInvoicesGUI
             // byLastNameRadial
             // 
             this.byLastNameRadial.AutoSize = true;
-            this.byLastNameRadial.Location = new System.Drawing.Point(47, 68);
+            this.byLastNameRadial.Location = new System.Drawing.Point(12, 12);
             this.byLastNameRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.byLastNameRadial.Name = "byLastNameRadial";
             this.byLastNameRadial.Size = new System.Drawing.Size(193, 24);
@@ -105,7 +109,7 @@ namespace FinalInvoicesGUI
             // invoicesRadial
             // 
             this.invoicesRadial.AutoSize = true;
-            this.invoicesRadial.Location = new System.Drawing.Point(482, 17);
+            this.invoicesRadial.Location = new System.Drawing.Point(3, 4);
             this.invoicesRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.invoicesRadial.Name = "invoicesRadial";
             this.invoicesRadial.Size = new System.Drawing.Size(83, 24);
@@ -118,7 +122,7 @@ namespace FinalInvoicesGUI
             // inventorySoldRadial
             // 
             this.inventorySoldRadial.AutoSize = true;
-            this.inventorySoldRadial.Location = new System.Drawing.Point(586, 16);
+            this.inventorySoldRadial.Location = new System.Drawing.Point(92, 4);
             this.inventorySoldRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.inventorySoldRadial.Name = "inventorySoldRadial";
             this.inventorySoldRadial.Size = new System.Drawing.Size(125, 24);
@@ -126,11 +130,12 @@ namespace FinalInvoicesGUI
             this.inventorySoldRadial.TabStop = true;
             this.inventorySoldRadial.Text = "Inventory Sold";
             this.inventorySoldRadial.UseVisualStyleBackColor = true;
+            this.inventorySoldRadial.CheckedChanged += new System.EventHandler(this.inventorySoldRadial_CheckedChanged);
             // 
             // invByCustomerRadial
             // 
             this.invByCustomerRadial.AutoSize = true;
-            this.invByCustomerRadial.Location = new System.Drawing.Point(728, 16);
+            this.invByCustomerRadial.Location = new System.Drawing.Point(223, 4);
             this.invByCustomerRadial.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.invByCustomerRadial.Name = "invByCustomerRadial";
             this.invByCustomerRadial.Size = new System.Drawing.Size(178, 24);
@@ -138,6 +143,7 @@ namespace FinalInvoicesGUI
             this.invByCustomerRadial.TabStop = true;
             this.invByCustomerRadial.Text = "Inventory by Customer";
             this.invByCustomerRadial.UseVisualStyleBackColor = true;
+            this.invByCustomerRadial.CheckedChanged += new System.EventHandler(this.invByCustomerRadial_CheckedChanged);
             // 
             // rightBox
             // 
@@ -148,25 +154,44 @@ namespace FinalInvoicesGUI
             this.rightBox.TabIndex = 8;
             this.rightBox.Text = "";
             // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.invByCustomerRadial);
+            this.panel1.Controls.Add(this.inventorySoldRadial);
+            this.panel1.Controls.Add(this.invoicesRadial);
+            this.panel1.Location = new System.Drawing.Point(502, 9);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(416, 36);
+            this.panel1.TabIndex = 11;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.byInvIDRadial);
+            this.panel2.Controls.Add(this.byLastNameRadial);
+            this.panel2.Controls.Add(this.byCostRadial);
+            this.panel2.Controls.Add(this.byCustomerIDRadial);
+            this.panel2.Location = new System.Drawing.Point(60, 38);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(208, 156);
+            this.panel2.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(968, 673);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.rightBox);
-            this.Controls.Add(this.invByCustomerRadial);
-            this.Controls.Add(this.inventorySoldRadial);
-            this.Controls.Add(this.invoicesRadial);
-            this.Controls.Add(this.byLastNameRadial);
-            this.Controls.Add(this.byCustomerIDRadial);
-            this.Controls.Add(this.byInvIDRadial);
-            this.Controls.Add(this.byCostRadial);
             this.Controls.Add(this.leftBox);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SDEV 2420 Final | James Sales";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -181,6 +206,8 @@ namespace FinalInvoicesGUI
         private System.Windows.Forms.RadioButton inventorySoldRadial;
         private System.Windows.Forms.RadioButton invByCustomerRadial;
         private System.Windows.Forms.RichTextBox rightBox;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel2;
     }
 }
 
